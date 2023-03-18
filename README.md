@@ -4,9 +4,6 @@
 
 I am a student of cyber security and data science, I am working with all my strength to improve myself in these areas and more. You can support me and increase this desire 😊
 
-Skills: Python / Linux and work for more
-
-- 🔭 I’m currently working on Python / Linux 
 
 
 
